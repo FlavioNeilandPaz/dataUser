@@ -16,3 +16,6 @@ Após a instalação do Node, caso utilize o windows, basta abrir o PowerShell c
 Para que possamos gerar os graficos destes eventos acima, podemos utilizar o MixPanel, basta criar uma conta gratuita: 
 
 https://mixpanel.com/get-demo/best-product-analytics/?utm_source=google&utm_medium=cpc&utm_campaign=Search-Google-EU-Brand&utm_content=brand&utm_term=mix%20panel&utm_creative=586983969524&gclid=EAIaIQobChMIjPOq8Pj69gIVgRGRCh3OegTXEAAYASAAEgI2UPD_BwE&gclid=EAIaIQobChMIjPOq8Pj69gIVgRGRCh3OegTXEAAYASAAEgI2UPD_BwE
+
+
+#Irei incluir mais informações e imagens para configuração e testes no MixPanel
