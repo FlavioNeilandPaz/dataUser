@@ -1,2 +1,2 @@
 # dataUser
-Eventos em JavaScript para analise de dados de usuarios
+Eventos em JavaScript para analise de comportamentos de usuarios📈
