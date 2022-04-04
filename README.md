@@ -5,7 +5,7 @@ Eventos em JavaScript para analise de comportamentos de usuarios📈
 
 Para que seja possível utilizar os eventos acima, é necessário que você tenha o Node instalado em sua maquina: 
 
-[https://nodejs.org/en/download/]
+[(https://nodejs.org/en/download/)]
 
 Após a instalação do Node, caso utilize o windows, basta abrir o PowerShell como Administrador e clonar este repositório em alguma pasta: 
 
